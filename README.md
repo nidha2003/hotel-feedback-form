@@ -1,6 +1,6 @@
 # 🏨 Hotel Feedback Form
 
-A simple and responsive **Hotel Feedback Form** built using **HTML** (and optional CSS) to collect guest feedback after their stay.
+A simple and responsive **Hotel Feedback Form** built using **HTML**  to collect guest feedback after their stay.
 
 This project is suitable for beginners and aligns well with **FreeCodeCamp form practice projects**.
 
@@ -20,8 +20,7 @@ This project is suitable for beginners and aligns well with **FreeCodeCamp form 
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3 (optional, for styling)
+- HTML5 
 
 ---
 
